@@ -4,6 +4,7 @@ Want to flex with a **guild tag** on Discord? Follow this quick guide to unlock 
 
 > ⚠️ **You still need 3 server boosts** to make this work.
 
+SOME GUILDS WORKS OTHER NO, depend on luck, don't expect recent one to work
 ---
 
 ## 🚀 Step-by-Step Guide
