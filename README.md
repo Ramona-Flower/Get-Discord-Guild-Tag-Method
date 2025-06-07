@@ -1,3 +1,5 @@
+### DON'T KNOW IF WORKS ANYMORE
+
 # 🎖️ How to Get a Guild Tag (Still Need 3 Boosts)
 
 Want to flex with a **guild tag** on Discord? Follow this quick guide to unlock the feature using [Vencord](https://vencord.dev)!
